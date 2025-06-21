@@ -1,6 +1,6 @@
 # shanzey-khanzada
 Hi, I'm Shanzey Khanzada — a passionate Frontend Developer. 🔧 Building the web one pixel at a time. 💡 Open to collaborations and innovative ideas. 🚀 Let’s turn ideas into reality through code!
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is shanzey khanzada and I'm a front-end developer, from  pakistan </h2>
 
 ###
 
